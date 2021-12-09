@@ -8,8 +8,16 @@ public class Application {
 
 	public static void main(String[] args) {
 		SpringApplication.run(Application.class, args);
+
+
+		int a=1;
+		int b=2;
+		int c=3;
+
+
 		int developer1_a=123;
 		int developer2_a=234;
+
 	}
 
 }
